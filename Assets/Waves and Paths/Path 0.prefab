@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 565408989042606474}
   m_Layer: 0
-  m_Name: Waypoint (4)
+  m_Name: Waypoint (3)
   m_TagString: Untagged
   m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -125,8 +125,8 @@ Transform:
   - {fileID: 4212826136364630247}
   - {fileID: 2512923859795978155}
   - {fileID: 9030796424456644350}
-  - {fileID: 2051101240178606099}
   - {fileID: 565408989042606474}
+  - {fileID: 2051101240178606099}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &7666376642360792045
@@ -170,7 +170,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2051101240178606099}
   m_Layer: 0
-  m_Name: Waypoint (3)
+  m_Name: Waypoint (4)
   m_TagString: Untagged
   m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0

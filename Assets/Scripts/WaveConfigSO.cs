@@ -24,7 +24,7 @@ public class WaveConfigSO : ScriptableObject
         return waypoints;
     }
 
-    public float getMoveSpeed()
+    public float GetMoveSpeed()
     {
         return moveSpeed;
     }
